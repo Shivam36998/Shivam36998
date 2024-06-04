@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Prajapati</h1>
 <h3 align="center">A passionate full stack developer from IIT BHU</h3>
 
-- 🔭 I’m currently working at Techkilla as Full Stack Intern
+- 🔭 I’m currently working at Dhruv Research as Software Developer
 
 - 🌱 I’m currently learning **Next Js**
 
