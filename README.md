@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Prajapati</h1>
 <h3 align="center">A passionate full stack developer from IIT BHU</h3>
 
-- 🔭 I’m currently working at Dhruv Research as Software Developer
+- 🔭 I’m currently working at Dhruv Research as Data analyst
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning Machine Learning
 
 - 👨‍💻 All of my projects are available at [https://shivam-prajapati.vercel.app](https://shivam-prajapati.vercel.app)
 
