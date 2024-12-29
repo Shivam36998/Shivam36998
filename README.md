@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Prajapati</h1>
-<h3 align="center">A passionate full stack developer from IIT BHU</h3>
+<h3 align="center">A passionate Data Analyst and full stack developer from IIT BHU</h3>
 
 - 🔭 I’m currently working at Dhruv Research as Data analyst
 
