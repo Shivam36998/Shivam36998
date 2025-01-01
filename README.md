@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Prajapati</h1>
 <h3 align="center">A passionate Data Analyst and full stack developer from IIT BHU</h3>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working at Dhruv Research as Data analyst
 
 - 🌱 I’m currently learning Machine Learning
